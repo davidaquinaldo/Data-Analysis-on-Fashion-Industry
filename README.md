@@ -60,7 +60,12 @@ Using KMeans algorithm from sklearn library to cluster data with these steps:
    km = KMeans(n_clusters=4)
    km.fit(df[[X,Y]])
    ```
+   ![Elbow point](https://github.com/santaa7/David-s_Portofolio/assets/98442051/708ae050-83ae-4eeb-b0f8-54999b7e9edf)
+
 3. Fitting the result into new column in that dataset.
+4. Plot the result with pyplot :
+
+![Cluster Plot](https://github.com/santaa7/David-s_Portofolio/assets/98442051/eb141565-5905-4752-9f1a-694163c85752)
 
 ### Results
 
