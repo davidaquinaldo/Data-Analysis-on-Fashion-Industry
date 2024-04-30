@@ -1,5 +1,4 @@
-# Data Analysis on Fashion Industry
-## Optimizing Fashion Store Strategies: K-means Clustering of Sales and Profit
+# Optimizing Fashion Store Strategies: K-means Clustering of Sales and Profit
 
 ## Table of Contents
 
